@@ -1,84 +1,50 @@
-<h1 align="center" style="color:#00ffff;">Sergio Guzman Vergara</h1>
 <!-- README Perfil GitHub - Sergio Guzman Vergara -->
-<div align="center" style="
-  background-color:#000000;
-  color:#00ffff;
-  padding:40px;
-  border-radius:15px;
-  font-family:Arial, Helvetica, sans-serif;
-">
+<div align="center" style="background-color:#000000; color:#00ffff; padding:40px; border-radius:15px; font-family:Arial, Helvetica, sans-serif;">
 
-  <style>
-    .badge {
-      margin: 6px;
-      animation: pulse 2s infinite;
-    }
+  <h1 style="font-size:40px;">👋 Hola, soy Sergio Guzman Vergara</h1>
 
-    @keyframes pulse {
-      0% { transform: scale(1); opacity: 0.8; }
-      50% { transform: scale(1.05); opacity: 1; }
-      100% { transform: scale(1); opacity: 0.8; }
-    }
-
-    .section {
-      margin-top: 30px;
-    }
-
-    hr {
-      border: 1px solid #00ffff;
-      width: 60%;
-      margin: 25px auto;
-    }
-  </style>
-
-  <h1 style="font-size:42px;">👋 Sergio Guzman Vergara</h1>
-
-  <p style="font-size:18px; max-width:850px;">
-    Entusiasta de la <strong>ciberseguridad</strong>, el <strong>hacking ético</strong> y la
-    <strong>automatización</strong>. Me enfoco en comprender, proteger y optimizar sistemas
-    mediante programación y análisis de seguridad.
+  <p style="font-size:18px; max-width:800px;">
+    Apasionado por la <strong>ciberseguridad</strong>, la <strong>automatización</strong> y el desarrollo de software.
+    Me interesa entender cómo funcionan los sistemas, cómo protegerlos y cómo optimizar procesos mediante código.
   </p>
 
-  <hr>
+  <hr style="border:1px solid #00ffff; width:60%;">
 
-  <div class="section">
-    <h2>💻 Tecnologías & Conocimientos</h2>
-    <!-- Badges -->
-    <img class="badge" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ffff">
-    <img class="badge" src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ffff">
-    <img class="badge" src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=00ffff">
-    <img class="badge" src="https://img.shields.io/badge/Ciberseguridad-000000?style=for-the-badge&logo=hackthebox&logoColor=00ffff">
-    <img class="badge" src="https://img.shields.io/badge/Hacker_Ético-000000?style=for-the-badge&logo=linux&logoColor=00ffff">
-    <img class="badge" src="https://img.shields.io/badge/Pentesting-000000?style=for-the-badge&logo=kalilinux&logoColor=00ffff">
-    <img class="badge" src="https://img.shields.io/badge/Redes-000000?style=for-the-badge&logo=cisco&logoColor=00ffff">
-  </div>
+  <h2>💻 Tecnologías & Conocimientos</h2>
 
-  <hr>
+  <ul style="list-style:none; font-size:18px; padding:0;">
+    <li>🐍 <strong>Python</strong></li>
+    <li>🌐 <strong>HTML</strong></li>
+    <li>☕ <strong>Java</strong></li>
+    <li>🔐 <strong>Ciberseguridad</strong></li>
+    <li>🕵️ <strong>Hacker Ético</strong></li>
+    <li>🛡️ <strong>Pentesting</strong></li>
+    <li>🌐 <strong>Conceptos básicos de redes y comunicación</strong></li>
+  </ul>
 
-  <div class="section">
-    <h2>⚙️ Intereses</h2>
-    <p style="font-size:18px;">
-      🤖 Automatización de procesos<br>
-      🔍 Análisis de vulnerabilidades<br>
-      🛡️ Seguridad ofensiva y defensiva<br>
-      🧠 Aprendizaje continuo en tecnología
-    </p>
-  </div>
+  <hr style="border:1px solid #00ffff; width:60%;">
 
-  <hr>
+  <h2>⚙️ Intereses</h2>
 
-  <div class="section">
-    <h2>🚀 Objetivo Profesional</h2>
-    <p style="font-size:18px; max-width:850px;">
-      Desarrollarme profesionalmente en el área de la <strong>seguridad informática</strong>
-      y la <strong>automatización</strong>, creando soluciones eficientes, seguras y escalables.
-    </p>
-  </div>
+  <p style="font-size:18px;">
+    🤖 Automatización de procesos <br>
+    🔍 Análisis de vulnerabilidades <br>
+    🧠 Aprendizaje continuo en tecnología y seguridad
+  </p>
+
+  <hr style="border:1px solid #00ffff; width:60%;">
+
+  <h2>🚀 Objetivo</h2>
+
+  <p style="font-size:18px; max-width:800px;">
+    Seguir creciendo como profesional en el área de la <strong>seguridad informática</strong> y el 
+    <strong>desarrollo automatizado</strong>, aportando soluciones eficientes y seguras.
+  </p>
 
   <br>
 
-  <p style="font-size:14px; opacity:0.75;">
-    ⚡ <em>"La seguridad no es un producto, es un proceso."</em>
+  <p style="font-size:14px; opacity:0.8;">
+    ⚡ “La mejor defensa es entender cómo funciona el ataque.”
   </p>
 
 </div>

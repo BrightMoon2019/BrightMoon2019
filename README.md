@@ -1,50 +1,58 @@
-<!-- README Perfil GitHub - Sergio Guzman Vergara -->
-<div align="center" style="background-color:#000000; color:#00ffff; padding:40px; border-radius:15px; font-family:Arial, Helvetica, sans-serif;">
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
+<h1 align="center">👋 Hola, soy Sergio Guzman Vergara</h1>
 
-  <h1 style="font-size:40px;">👋 Hola, soy Sergio Guzman Vergara</h1>
+<p align="center">
+  💻 Apasionado por la programación, la ciberseguridad y el hacking ético<br>
+  🔐 En constante aprendizaje y mejora de habilidades técnicas
+</p>
 
-  <p style="font-size:18px; max-width:800px;">
-    Apasionado por la <strong>ciberseguridad</strong>, la <strong>automatización</strong> y el desarrollo de software.
-    Me interesa entender cómo funcionan los sistemas, cómo protegerlos y cómo optimizar procesos mediante código.
-  </p>
+<hr>
 
-  <hr style="border:1px solid #00ffff; width:60%;">
+<h2>👨‍💻 Sobre mí</h2>
+<img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<p>
+Soy <strong>Sergio Guzman Vergara</strong>, con conocimientos en desarrollo de software y ciberseguridad.
+Me interesa especialmente el <strong>hacking ético</strong>, el <strong>pentesting</strong> y la seguridad informática.
+Cuento con bases sólidas en programación y conceptos fundamentales de redes y comunicación.
+</p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h2>💻 Tecnologías & Conocimientos</h2>
+<hr>
 
-  <ul style="list-style:none; font-size:18px; padding:0;">
-    <li>🐍 <strong>Python</strong></li>
-    <li>🌐 <strong>HTML</strong></li>
-    <li>☕ <strong>Java</strong></li>
-    <li>🔐 <strong>Ciberseguridad</strong></li>
-    <li>🕵️ <strong>Hacker Ético</strong></li>
-    <li>🛡️ <strong>Pentesting</strong></li>
-    <li>🌐 <strong>Conceptos básicos de redes y comunicación</strong></li>
-  </ul>
+<h2>🛠️ Tech Stack</h2>
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+<h3>Lenguajes de Programación</h3>
+<ul>
+  <li>🐍 Python</li>
+  <li>🌐 HTML</li>
+  <li>☕ Java</li>
+</ul>
 
-  <hr style="border:1px solid #00ffff; width:60%;">
+<h3>Ciberseguridad</h3>
+<ul>
+  <li>🔐 Ciberseguridad</li>
+  <li>🕵️ Hacker Ético</li>
+  <li>💥 Pentesting</li>
+</ul>
 
-  <h2>⚙️ Intereses</h2>
+<h3>Redes y Comunicación</h3>
+<ul>
+  <li>📡 Conceptos básicos de redes</li>
+  <li>🔗 Protocolos y comunicación</li>
+</ul>
 
-  <p style="font-size:18px;">
-    🤖 Automatización de procesos <br>
-    🔍 Análisis de vulnerabilidades <br>
-    🧠 Aprendizaje continuo en tecnología y seguridad
-  </p>
+<hr>
 
-  <hr style="border:1px solid #00ffff; width:60%;">
+<h2>📈 Objetivo</h2>
 
-  <h2>🚀 Objetivo</h2>
+<p>
+Seguir aprendiendo y especializándome en <strong>seguridad informática</strong>, 
+desarrollo de software y tecnologías modernas, aplicando buenas prácticas y 
+enfocándome en la protección de sistemas y datos.
+</p>
 
-  <p style="font-size:18px; max-width:800px;">
-    Seguir creciendo como profesional en el área de la <strong>seguridad informática</strong> y el 
-    <strong>desarrollo automatizado</strong>, aportando soluciones eficientes y seguras.
-  </p>
+<hr>
 
-  <br>
-
-  <p style="font-size:14px; opacity:0.8;">
-    ⚡ “La mejor defensa es entender cómo funciona el ataque.”
-  </p>
-
-</div>
+<p align="center">
+  🚀 Gracias por visitar mi perfil de GitHub
+</p>

@@ -1,5 +1,5 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
-<h1 align="center">👋 Hola, soy Sergio Guzman Vergara</h1>
+<h1 align="center">👋 Hola, soy Sergio </h1>
 
 <p align="center">
   💻 Apasionado por la programación, la ciberseguridad y el hacking ético<br>
@@ -11,7 +11,7 @@
 <h2>👨‍💻 Sobre mí</h2>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 <p>
-Soy <strong>Sergio Guzman Vergara</strong>, con conocimientos en desarrollo de software y ciberseguridad.
+Soy <strong>Sergio</strong>, con conocimientos en desarrollo de software y ciberseguridad.
 Me interesa especialmente el <strong>hacking ético</strong>, el <strong>pentesting</strong> y la seguridad informática.
 Cuento con bases sólidas en programación y conceptos fundamentales de redes y comunicación.
 </p>
